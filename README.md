@@ -1,3 +1,3 @@
 # ShreyaResume
 
-The Website link :  https://shreyaresume-accd3.web.app/
+The Website link hosted by Google Firebase :  https://shreyaresume-accd3.web.app/
